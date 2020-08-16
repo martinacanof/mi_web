@@ -1,0 +1,281 @@
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+
+.titulo{
+	color: grey;
+	text-align-last: center;
+	text-transform: capitalize;
+	letter-spacing: 4px;
+
+	
+}
+
+a{
+	color: #807e7e;
+
+}
+
+
+.navbar{
+	align-content: center;
+	font-family: Monda;
+	background-color: #F9D4E6;
+
+}
+
+.nav-link{
+	padding: .15rem 1.1rem;
+}
+
+
+.lista li a:hover{
+	background-color:#c1d9c1; 
+}
+
+
+h2{
+	font-style: bold;
+}
+
+h1, h2, h3{
+	font-family:Monda;
+	font-style: 400;
+	font-size: 30px;
+	color: #000;
+	justify-content: center;
+
+}
+
+
+
+p{
+	font-family: Monda;
+	font-weight: 400;
+	color: #1c1b1b;
+}
+
+body {
+  margin: 0;
+  font-family:Monda;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000;
+  text-align: left;
+  background-color: #fff;
+}
+
+.masthead {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 35rem;
+    padding: 15rem 0;
+    background: url("media/background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+.tituloDeco{
+	align-content: left;
+	margin-left: 1.5rem;
+
+
+}
+.about-section {
+    padding-top: 10rem;
+    background: linear-gradient(to bottom, #F9D4E6 0%, #F9D4E6 80%, #D23737 110%);
+}
+
+.projects-section {
+    padding: 10rem 0;
+}
+.bg-light {
+    background-color: #f8f9fa !important;
+}    
+
+.signup-section {
+    padding: 10rem 0;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000000 100%), url("media/background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+user agent stylesheet
+section {
+    display: block;
+}
+
+
+
+.contact-section {
+    padding-top: 5rem;
+}
+.bg-black {
+    background-color: #F9D4E6 !important;
+}
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+user agent stylesheet
+section {
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+.footer {
+    padding: 5rem 0;
+}
+.text-white-50 {
+    color: rgba(255, 255, 255, 0.5) !important;
+}
+.text-center {
+    text-align: center !important;
+}
+.bg-black {
+    background-color: #F9D4E6 !important;
+}
+small, .small {
+    font-size: 80%;
+    font-weight: 400;
+}
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+user agent stylesheet
+footer {
+    display: block;
+}
+
+
+
+
+
+
+
+@media (min-width: 992px)
+
+.projects-section .project-text {
+    padding: 5rem;
+}
+
+.projects-section .project-text {
+    padding: 3rem;
+    font-size: 90%;
+}
+
+@media (min-width: 992px)
+.text-lg-left {
+    text-align: left !important;
+}
+.text-center {
+    text-align: center !important;
+}
+.mb-auto, .my-auto {
+    margin-bottom: auto !important;
+}
+.mt-auto, .my-auto {
+    margin-top: auto !important;
+}
+.w-100 {
+    width: 100% !important;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.no-gutters > .col, .no-gutters > [class*=col-] {
+    padding-right: 0;
+    padding-left: 0;
+}
+@media (min-width: 992px)
+.col-lg-5 {
+    flex: 0 0 41.6666666667%;
+    max-width: 41.6666666667%;
+}
+
+h4, .h4 {
+    font-size: 1.5rem;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+user agent stylesheet
+h4 {
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+@media (min-width: 992px)
+.text-lg-left {
+    text-align: left !important;
+
+
+h4, .h4 {
+    font-size: 1.5rem;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+user agent stylesheet
+h4 {
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
